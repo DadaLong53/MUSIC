@@ -2,7 +2,7 @@
 
 Year	Conductor	Soloists	Orchestra & Choirs	Live	Label	Rec. date
 
-# 1948	Eugene ORMANDY
+### 1948	Eugene ORMANDY
 
 Frances YEEND,Olive Mae BEECH,Eula BEAL,Suzanne CORAY, Charles KULLMAN, Mack HARRELL,
 George LONDON	Hollywood Bowl Orchestra,
