@@ -20,7 +20,8 @@ Ivan IV, opéra, 5 acts, (F.-H. Leroy & H. Trianon; composed ca. 1862–65; firs
 Les pêcheurs de perles (The Pearl Fishers), opéra, 3 acts, (E. Cormon & M. Carré; composed 1863; 
 first performance: Paris, Théâtre Lyrique, 30 September 1863)
 
-La jolie fille de Perth (The Fair Maid of Perth), opéra, 4 acts, (J.-H. Vernoy de Saint-Georges & J. Adenis, after W. Scott); composed 1866; first performance: Paris, Théâtre Lyrique, 26 December 1867)
+La jolie fille de Perth (The Fair Maid of Perth), opéra, 4 acts, (J.-H. Vernoy de Saint-Georges & J. Adenis, after W. Scott); 
+composed 1866; first performance: Paris, Théâtre Lyrique, 26 December 1867)
 
 Marlbrough s'en va-t-en guerre (Marlbrough Goes to War), opérette, 4 acts, 
 (P. Siraudin & W. Busnach; composed 1867, Act I only, lost; 
