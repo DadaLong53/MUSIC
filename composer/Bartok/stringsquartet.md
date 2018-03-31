@@ -93,7 +93,7 @@ Recorded 1949, New York.
 Robert Mann and Robert Koff, violins; Raphael Hillyer, viola; Arthur Winograd, cello. 
 Three LPs, 12 in., monaural. Columbia Masterworks ML 4278/4279/4280.
 ```
-### (1954)維格四重奏Végh Quartet::33CX 1245/67/85 
+### (1954)維格四重奏Végh Quartet::33CX 1245/67/85  Music & Arts CD-1169
 ```
 瓦礫系列－維格四重奏：弦樂四重奏-貝多芬、巴爾托克 / 維格四重奏 (10CD)
 Wallet-Végh Quartet：The Complete String Quartets-Ludwig van Beethoven、Bela Bartok / Végh Quartet
@@ -150,12 +150,7 @@ founded in Chicago, United States in 1946 by Leonard Sorkin and George Sopkin.
 
 
 
-### (1964)Hungarian Quartet DGG 138 650/52 SLPM
-```
-匈牙利弦樂四重奏團，Hungarian Quartet，起初在匈牙利組成，1935年開始成軍於布達佩斯，二次大戰中移到荷蘭演出，
-50年開始到美國發展，也在全球展開演奏，活躍於四重奏樂壇，這期中有換了一二位小.大提琴的樂手，但音樂仍保持一貫的高手準，
-他們以自然的音樂表現出每位作曲家的個性而演出，真是優美的弦樂合奏團。1970年解散。
-```
+
 
 ### Hungarian Quartet  DGG 3 LP BOX 2733001 
 
@@ -178,8 +173,29 @@ COLUMBIA 3 LP BOX D3S 317
 
 [複刻版](180g)Columbia D3S 717
 
+### (1964)Hungarian Quartet DGG 138 650/52 SLPM
+```
+匈牙利弦樂四重奏團，Hungarian Quartet，起初在匈牙利組成，1935年開始成軍於布達佩斯，二次大戰中移到荷蘭演出，
+50年開始到美國發展，也在全球展開演奏，活躍於四重奏樂壇，這期中有換了一二位小.大提琴的樂手，但音樂仍保持一貫的高手準，
+他們以自然的音樂表現出每位作曲家的個性而演出，真是優美的弦樂合奏團。1970年解散。
+```
+
+### (1965) Novak Quartet:Philips Duo 442284
+
 ### (1966) Eder Quartett::Telefunken 635552 FK Stereo, 3 LPs, Made in Germany
  (Pal Eder, Erika Toth, Zoltan Toth, György Eder)
+
+### (1970)TOKYO STRING QUARTET DG 2740 235 3LP 
+```
+東京弦樂四重奏最早是於一九六九年由原田幸一郎、池田菊衛、磯村和英與原田禎夫組成，
+他們在七○年代錄製的巴爾托克六首弦樂四重奏一直是東、西方樂評人與愛樂者最喜愛的版本，
+可以說是熱情、力度與細膩的精妙結合，四名東方人對於巴爾托克音樂的見解相當令人滿意，
+甚至比後來艾默森弦樂四重奏知名的演出更讓人滿意。儘管加工的精緻度很高，
+聽起來卻完全沒有人工鑿斧的痕跡，還是呈現出質樸自然的情調。
+
+【得獎榮譽】
+英國留聲機雜誌唱片大獎
+```
 
 ### (1977) Guarneri Quartet:
 
@@ -200,21 +216,22 @@ Robert Mann and Earl Carlyss, violins; Samuel Rhodes, viola; Claus Adam, cello
 CBS D3 37857
 ```
 ### (1990)Emerson String Quartet, Deutsche Grammophon
+```
+1976年，出身茱麗亞音樂學院的四名弦樂好手，以美國哲學家艾默森之名，成立了艾默森弦樂四重奏之後，
+這四個二十多歲的年輕人開始踏上自己也想像不到的燦爛音樂生涯。
 
-### (1990) Juilliard String Quartet:
 
-### TOKYO STRING QUARTET DG 2740 235 3LP 
-
+四十年來，雖然成員幾經更換，但是這個團體始終以充滿年輕朝氣，
+溫暖的音色中仍時時透露著明晰亮麗的美式美感與強烈的熱情得到樂界一致的好評，
+英國《泰晤士報》更稱「有了這樣的音樂家，對於人性更能抱持著希望」。
+```
+### Lindsay String Quartet:ASV
 
 ### (1995/8)Hagen Quartet
 
-### Lindsay String Quartet:ASV
+### (1998)Takács Quartet, Decca 289 455 297-2
 
-
-
-###  (1998)Takács Quartet, Decca 289 455 297-2
-
-###  (2003)魯賓弦樂四重奏團Rubin Quartet::Brilliant Classics B-6901
+### (2003)魯賓弦樂四重奏團Rubin Quartet::Brilliant Classics B-6901
 
 ```
 魯賓四重奏團成立於1992年，這個成員全部為女性演奏家的團體，多年來堅持古典與現代音樂的演奏可謂絕無僅有，
