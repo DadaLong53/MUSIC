@@ -1,5 +1,5 @@
 
-# 巴爾托克弦樂四重奏
+# 巴爾托克Bela Bartok(1881-1945)弦樂四重奏
 
 巴爾托克的六首弦樂四重奏是現代室內樂的基石，一向被讚譽為「自貝多芬以來最優秀的弦樂四重奏」。
 ```
@@ -26,6 +26,48 @@ String Quartet No. 5, Sz. 102, BB 110
 String Quartet No. 6, Sz. 114, BB 119:[世界首演20 January 1941:Kolisch Quartet:Town Hall in New York City]
 此首獻給Kolisch Quartet,也是由它們完成世界首演
 ```
+
+
+
+```
+String Quartet No.1, Sz. 40 (Op.7)
+[1] 1. Lento [10:43]
+[2] 2. Poco a poco accelerando all’ Allegretto - Introduzione. Allegro - attacca: [9:51]
+[3] 3. Allegro vivace - Adagio - Tempo I [10:22]
+
+String Quartet No.3, Sz. 85
+[4] 1. Prima parte (Moderato) [4:57]
+[5] 2. Seconda parte (Allegro) [5:43]
+[6] 3. Ricapitolazione della prima parte (Moderato) [3:02]
+[7] 4. Coda (Allegro molto) [1:52]
+
+String Quartet No.5, Sz. 102
+[8] 1. Allegro [7:44]
+[9] 2. Adagio molto [6:31]
+[10] 3. Scherzo. Alla bulgarese [4:56]
+[11] 4. Andante [5:00]
+[12] 5. Finale. Allegro vivace [7:03]
+
+String Quartet No.2, Sz. 67 (Op.17)
+[1] 1. Moderato [10:12]
+[2] 2. Allegro molto capriccioso [7:31]
+[3] 3. Lento [9:34]
+
+String Quartet No.4, Sz. 91
+[4] 1. Allegro [6:02]
+[5] 2. Prestissimo, con sordino [2:59]
+[6] 3. Non troppo lento [5:40]
+[7] 4. Allegretto pizzicato [2:46]
+[8] 5. Allegro molto [5:41]
+
+String Quartet No.6, Sz. 114
+[9] 1. Mesto - Vivace [7:29]
+[10] 2. Mesto - Marcia [7:53]
+[11] 3. Mesto - Burletta (Moderato) [7:05]
+[12] 4. Mesto [6:53]
+
+```
+
 
 # 影響後世深遠的巨作
 
@@ -170,6 +212,10 @@ CBS D3 37857
 
 ###  (1998)Takács Quartet, Decca 289 455 297-2
 
-```
+###  (2003)魯賓弦樂四重奏團Rubin Quartet::Brilliant Classics B-6901
 
+```
+魯賓四重奏團成立於1992年，這個成員全部為女性演奏家的團體，多年來堅持古典與現代音樂的演奏可謂絕無僅有，
+從成立至今她們已榮獲不少獎項，並參加過許多音樂節的演出。
+本輯是2003年與德國廣播公司合作的錄音，她們十足現代感與充滿活力的演奏，為巴爾托克這六首弦樂四重奏寫下一頁特別的歷史。
 ```
