@@ -2,26 +2,52 @@ Stage works
 
 ```
 Operas:
-La maison du docteur (The Physician's House), opéra comique, 1 act, (H. Boisseaux; composed either in 1867 or 1859; unperformed)
-Le docteur Miracle (Doctor Miracle, opérette, 1 act, (L. Battu & L. Halévy, after R.B. Sheridan; composed 1856; first performance: Paris, Bouffes-Parisiens, 9 April 1857)
-Don Procopio, opéra bouffe, 2 acts, (C. Cambiaggio, after L. Prividali; composed 1858–59; first performance: Monte Carlo, 10 March 1906)
+La maison du docteur (The Physician's House), opéra comique, 1 act, 
+(H. Boisseaux; composed either in 1867 or 1859; unperformed)
+
+Le docteur Miracle (Doctor Miracle, opérette, 1 act, (L. Battu & L. Halévy, after R.B. Sheridan; composed 1856; 
+first performance: Paris, Bouffes-Parisiens, 9 April 1857)
+
+Don Procopio, opéra bouffe, 2 acts, (C. Cambiaggio, after L. Prividali; composed 1858–59; 
+first performance: Monte Carlo, 10 March 1906)
+
 La prêtresse (The Priestess), opérette, 1 act, (P. Gille; composed ca. 1861; unperformed)
+
 La guzla de l'émir (The Guzla of the Amir), opéra comique, (J. Barbier & M. Carré; composed ca. 1862; unperformed)
+
 Ivan IV, opéra, 5 acts, (F.-H. Leroy & H. Trianon; composed ca. 1862–65; first performance: Württemberg, Mühringen Castle, 1946)
-Les pêcheurs de perles (The Pearl Fishers), opéra, 3 acts, (E. Cormon & M. Carré; composed 1863; first performance: Paris, Théâtre Lyrique, 30 September 1863)
+
+Les pêcheurs de perles (The Pearl Fishers), opéra, 3 acts, (E. Cormon & M. Carré; composed 1863; 
+first performance: Paris, Théâtre Lyrique, 30 September 1863)
+
 La jolie fille de Perth (The Fair Maid of Perth), opéra, 4 acts, (J.-H. Vernoy de Saint-Georges & J. Adenis, after W. Scott); composed 1866; first performance: Paris, Théâtre Lyrique, 26 December 1867)
-Marlbrough s'en va-t-en guerre (Marlbrough Goes to War), opérette, 4 acts, (P. Siraudin & W. Busnach; composed 1867, Act I only, lost; first performance: Paris, Théâtre de l'Athénée, 13 December 1867; the title was taken from the popular song "Marlbrough s'en va-t-en guerre")
-La coupe du roi de Thulé (The Cup of the King of Thule), opéra, 3 acts, (L. Gallet & E. Blau; composed 1868–69, after his death the autograph full score was mutilated by various hands[2] and only fragments remain; first performance: (excerpts) BBC Radio, 12 July 1955)
+
+Marlbrough s'en va-t-en guerre (Marlbrough Goes to War), opérette, 4 acts, 
+(P. Siraudin & W. Busnach; composed 1867, Act I only, lost; 
+first performance: Paris, Théâtre de l'Athénée, 13 December 1867; 
+the title was taken from the popular song "Marlbrough s'en va-t-en guerre")
+
+La coupe du roi de Thulé (The Cup of the King of Thule), opéra, 3 acts, 
+(L. Gallet & E. Blau; composed 1868–69, after his death the autograph full score 
+was mutilated by various hands[2] and only fragments remain; first performance: (excerpts) BBC Radio, 12 July 1955)
+
 Clarisse Harlowe, opéra comique, 3 acts, (Gille & A. Jaime, after S. Richardson; composed 1870–71, incomplete; unperformed)
+
 Grisélidis, opéra comique, 1 act, (V. Sardou; composed 1870–71, incomplete; unperformed)
-Djamileh, opéra comique, 1 act, (Gallet, after A. de Musset; composed 1871; first performance: Paris, Opéra-Comique (Favart), 22 May 1872)
+
+Djamileh, opéra comique, 1 act, (Gallet, after A. de Musset; composed 1871; 
+first performance: Paris, Opéra-Comique (Favart), 22 May 1872)
+
 Don Rodrigue, opéra, 5 acts, (Gallet & Blau, after G. de Castro y Bellvis; composed 1872, incomplete draft; unperformed)
-Carmen, opéra, 4 acts, (H. Meilhac & L. Halévy, after P. Mérimée; composed 1873–74; first performance: Paris, Opéra-Comique (Favart), 3 March 1875)
+
+Carmen, opéra, 4 acts, (H. Meilhac & L. Halévy, after P. Mérimée; composed 1873–74; 
+first performance: Paris, Opéra-Comique (Favart), 3 March 1875)
 
 
 Incidental music:
 
-L'Arlésienne (The Girl from Arles), incidental music, 3 acts (A. Daudet; composed 1872; first performance: Paris, Théâtre Vaudeville, 1 October 1872)
+L'Arlésienne (The Girl from Arles), incidental music, 3 acts 
+(A. Daudet; composed 1872; first performance: Paris, Théâtre Vaudeville, 1 October 1872)
 
 
 Orchestral works
@@ -30,15 +56,18 @@ Symphony in C major, 1855
 Roma Symphony (also in C major), 1860–71
 Petite suite (five movements orchestrated from Jeux d'enfants)
 Overture Patrie, 1872
-He compiled an orchestral suite using some pieces from his incidental music for L'Arlesienne. After his death, Ernest Guiraud put together a second L'Arlésienne suite, although it also included music from La jolie fille de Perth.
+He compiled an orchestral suite using some pieces from his incidental music for L'Arlesienne. 
+After his death, Ernest Guiraud put together a second L'Arlésienne suite, 
+although it also included music from La jolie fille de Perth.
+
+
 Works for chorus and orchestra
 Clovis et Clotilde (cantata), 1857
 Te Deum, 1858
 Ode Symphony Vasco de Gama, 1859–60
 
 
-Songs
-(words by / year composed)
+Songs(words by / year composed)
 
 L'âme triste est pareille au doux ciel (Lamartine)
 Petite Marguerite (Olivier Rolland, 1854)
