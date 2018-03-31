@@ -1,14 +1,32 @@
 
 # 巴爾托克弦樂四重奏
 
+巴爾托克的六首弦樂四重奏是現代室內樂的基石，一向被讚譽為「自貝多芬以來最優秀的弦樂四重奏」。
+```
+他的六首弦樂四重奏創作於1908到1939的三十年間，第一號雖青澀，但已極具個人特色，
+第二號則是飄溢浪漫派風味與民族主義感覺的過渡作品，此曲題獻給匈牙利四重奏團。
+第三號是應費城音樂協會之邀而作，此曲展現出全新的音樂風格，形式上則分兩個部份，且不間斷的演奏，本輯是將最後再現的第一部份分開來演奏。
+五樂章形式的第四號，則採以第三樂章為中心的對稱手法，曲子獻給比利時的Pro Arte四重奏團。
+相對於第三、四號的不協和風格，第五號似乎又回歸調性主義與民族本位，但其內容與規模則深刻而龐大。
+巴爾托克在歐洲期間所創作的最後一首作品，就是第六號弦樂四重奏，隨後即前往美國，並於1941年由受獻的柯利希Kolisch四重奏團在紐約首演。
+此曲於各樂章之前都冠以「憂愁的」Mesto表情，巴爾托克離鄉之情不言而喻。
+```
+```
+【BBC音樂導讀2】巴爾托克：室內樂 Bartok Chamber Music
+作者： Stephen Walsh  譯者： 鄭朔 出版社：世界文物
+Stephen Walsh研究了巴爾托克自1904年青年時期的《鋼琴五重奏》至1939年《雙鋼琴與打擊樂奏鳴曲》和《第六號四重奏》的音樂發展。
+這是多年來第一部有關巴爾托克室內樂的研究著作。
+```
 ```
 String Quartet No. 1, Op.7, Sz. 40, BB 52
 String Quartet No. 2, Op.17, Sz. 67, BB 75
 String Quartet No. 3, Sz. 85, BB 93
 String Quartet No. 4, Sz. 91, BB 95
 String Quartet No. 5, Sz. 102, BB 110
-String Quartet No. 6, Sz. 114, BB 119
+String Quartet No. 6, Sz. 114, BB 119:[世界首演20 January 1941:Kolisch Quartet:Town Hall in New York City]
+此首獻給Kolisch Quartet,也是由它們完成世界首演
 ```
+
 # 影響後世深遠的巨作
 
 ```
@@ -43,8 +61,6 @@ Wallet-Végh Quartet：The Complete String Quartets-Ludwig van Beethoven、Bela 
 也就是本套裝CD中所收錄的。貝多芬系列錄製於1952年，
 無可爭議的是最引人入勝的作品，於1954年錄製的巴托克系列，同樣也為現代樹立了一個新的高標準。 
 ```
-
-
 
 ### (1955)Hungarian Quartet
 ```
@@ -125,6 +141,14 @@ COLUMBIA 3 LP BOX D3S 317
 
 ### (1977) Guarneri Quartet:
 
+### (1981)ALBAN BERG QUARTETT::EMI 27 0611 3
+```
+founded in Vienna, Austria in 1970, named after Alban Berg
+The Berg Quartet was founded in 1970 by four young professors of the Vienna Academy of Music, 
+and made its debut in the Vienna Konzerthaus in autumn 1971. 
+The widow of the composer Alban Berg, Helene, attended an early private concert 
+after which she gave her consent for the quartet to use her husband's name.
+```
 ### (1981) Juilliard String Quartet:
 ```
 Recorded 13–23 May 1981, Columbia 30th Street Studios, New York. 
@@ -138,7 +162,7 @@ CBS D3 37857
 ### TOKYO STRING QUARTET DG 2740 235 3LP 
 
 
-### Hagen Quartet
+### (1995/8)Hagen Quartet
 
 ### Lindsay String Quartet:ASV
 
