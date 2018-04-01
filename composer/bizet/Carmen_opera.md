@@ -59,7 +59,7 @@
 她現在已經愛上了艾斯卡米諾。（三重唱，關於撲克牌：「Shuffle, shuffle, cut them, cut them.」）
 走私者阻止何塞和艾斯卡米諾的決鬥（二重唱：「I am Escamillo.」）
 米凱拉來到（詠嘆調：「Here is the smugglers’stronghold」）並告訴何塞，他的媽媽將不久於人世。何塞便離開了大隊。
-
+```
 第四幕
 ```
 塞維亞鬥牛場前的廣場，鬥牛士們擁擠的在場外遊行。
@@ -71,3 +71,86 @@
 最後，何塞向士兵自首，這場三角關係的悲劇就這樣落幕了。
 ```
 
+第一幕
+```
+序曲 管弦樂 Prélude
+合唱場景 廣場上人來人往 chacun passe à la place
+瞧這位小姑娘 Regardez, cette petite fille
+啞劇場景 立正！稍息！立正！齊步走！ Attention! Chut! Attention! Taisons-nous!
+頑童合唱 跟著新換崗的士兵 Avec la garde montante
+宣敘調 一，二，對列整齊……前一班崗的士兵 Une jeune fille charmante... Et la garde descendante
+宣敘調 在那邊，不 C'est bien la, n'est-ce pas
+煙廠女工合唱 鐘聲敲響 La cloche a sonne
+瞧她們，輕佻的目光……我們瞧著空中的青煙 Voyez-les! Regards impudents... Dans l'air, nous suivons des yeux
+但我們沒看見卡門西塔！……宣敘調 什麼時候會愛你們？ Mais nous ne voyons pas la Carmencita!... Quand je vous aimerai?
+哈巴涅拉 愛情是一隻自由鳥 L'amour est un oiseau rebelle
+詠嘆調 愛情是個流浪兒 L'amour est enfant de boheme
+場景 卡門！我們緊跟在你們後面！ Carmen! sur tes pas, nous nous pressons tous!
+宣敘調 多麼輕浮！多麼恬不如恥 Quels regards! Quelle effronterie!
+何塞！……米卡埃拉！…… 二重唱 給母親的一封信！ Jose!... Micaela!... Parle-moi de ma mere!
+宣敘調 我讀書時，休息一下 Reste la, maintenant, pendant que je lirai
+合唱 發生了什麼？……救命啊！ Que se passe-il donc la-bas?... Au secours! Au secours!
+香頌情景劇 長官，有爭吵……啦啦啦啦，砍我啊 Mon officier, c'etait une querelle... Tralalalala, coupe-moi
+宣敘調 你要帶我去哪裡？ Ou me conduisez-vous?
+二重唱 在塞維亞的老城牆邊 Près des remparts de Seville
+終曲 聽口令：出發 Voici l'ordre; partez
+幕間曲 管弦樂 Entr'acte
+```
+
+第二幕
+```
+香頌 敲打著響板 Les tringles des sistres tintaient
+宣敘調 先生們，聽我說 Messieurs, Pastia me dit...
+合唱 萬歲！鬥牛士萬歲！ Vivat! vivat le Torero!
+副部 我可以回敬你們……鬥牛士要當心！ Votre toast, je peux vous le rendre... Toreador, en garde!
+宣敘調 告訴我吧，美人 La belle, un mot
+埃斯卡米羅出擊 管弦樂 Sortie d'Escamillo
+宣敘調 好啦，快點！有什麼消息？ Eh bien! vite, quelles nouvelles?
+五重唱 我們正有一個計劃 Nous avons en tete une affaire
+宣敘調 誰在等你？ Mais qui donc attends-tu?
+香頌 站住！那是誰 Halte la! Qui va la?
+宣敘調 原來是你！……很榮幸和你跳舞 Enfin, c'est toi!... Je vais danser en votre honneur
+啦啦啦……稍等，卡門 La-la-la-la... Attends un peu, Carmen
+回營房！點名！ Au quartier! pour l'appel!
+這是你給我的花朵 La fleur que tu m'avais jetee
+不！你不愛我 Non, tu ne m'aimes pas
+不！我不願再聽你說！ Non! je ne veux plus t'ecouter!
+終曲 喂，卡門！喂！喂！ Hola Carmen! Hola! Hola!
+帥長官，你玩弄愛情！ Bel officier, l'amour vous joue
+……稍後……戰爭！發生戰爭！ ...Plus tard!... La guerre, c'est la guerre!
+幕間曲 管弦樂 Entr'acte
+```
+
+第三幕
+```
+六重奏和合唱 你聽，夥伴，你聽 Ecoute, ecoute, compagnon, ecoute
+我們的生意很好 Notre metier est bon
+宣敘調 我們在此休息一小時 Reposons-nous une heure ici, mes camarades
+你要買什麼？ Que regardes-tu donc?
+三重唱 甜瓜！票據！ Melons! Coupons!
+看，輪到我了 Voyons, que j'essaie a mon tour
+這是徒勞 En vain pour eviter
+……死亡！再一次說我漂亮 ...la mort... Parlez encor, parlez mes belles
+宣敘調 怎麼樣？……我們將盡力 Eh bien?... Eh bien! nous essayerons
+合唱 至于海關官員，這是我們的事 Quant au douanier, c'est notre affaire
+宣敘調 這是走私犯的必經之路 C'est des contrebandiers le refuge ordinaire
+詠嘆調 我說我什麼也不怕 Je dis, que rien ne mépouvante
+宣敘調 我不上當 Je ne me trompe pas
+射的再低一點……二重唱 我是埃斯卡米羅，格拉納達的鬥牛士！ Quelques lignes plus bas... Je suis Escamillo, Torero de Grenade!
+她原來有情人 Elle avait pour amant
+我的怒火……多麼笨拙 Enfin ma colere... Quelle maladresse
+終曲 喂，喂！何塞 Hola, hola! Jose!
+你要當心，卡門 Prends garde a toi, Carmen
+鬥牛士，要當心！ Toreador, en garde!
+幕間曲 管弦樂 Entr'acte
+```
+
+第四幕
+```
+合唱 兩個銅板！兩個銅板！ A deux cuartos! A deux cuartos!
+進行曲和合唱 他們來了！鬥牛士隊伍來了！ Les voici! voici la quardrille!
+如果你愛我，卡門 Si tu m'aimes, Carmen
+卡門，一個忠告 Carmen, un bon conseil
+二重唱和合唱 是你！……是我！ C'est toi!... C'est mio!
+那你不再愛我了？ Tu ne m'aimes donc plus?
+```
