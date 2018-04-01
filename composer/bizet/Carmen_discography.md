@@ -1,5 +1,18 @@
 # wiki: https://en.wikipedia.org/wiki/Carmen_discography
+```
+Carmen has been the subject of many recordings, beginning with early wax cylinder recordings of excerpts in the 1890s, 
 
+a nearly complete performance in German from 1908 with Emmy Destinn in the title role,[92][93] and 
+
+a complete 1911 Opéra-Comique recording in French. 
+
+Since then, many of the leading opera houses and artistes have recorded the work, in both studio and live performances.[94] 
+Over the years many versions have been commended and reissued.[95][96] 
+
+From the mid-1990s numerous video recordings have become available. 
+
+These include David McVicar's Glyndebourne production of 2002, and the Royal Opera productions of 2007 and 2010, each designed by Francesca Zambello.[94]
+```
 # Audio recordings{推薦版本}
 ```
 1959	
