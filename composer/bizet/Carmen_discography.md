@@ -21,6 +21,7 @@ each designed by Francesca Zambello.
 1959	
 Victoria de los Ángeles,Nicolai Gedda,Janine Micheau,Ernest Blanc	
 Sir Thomas Beecham,Orchestre Philharmonique de Radio France
+LP: HMV ASD 331/33, CAPITOL STEREO SGCR 7207,EMI 1C-037-11 680, EMI SLS 5021 
 ```
 
 ```
