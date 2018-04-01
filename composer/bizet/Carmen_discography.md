@@ -10,7 +10,7 @@ Sir Thomas Beecham,Orchestre Philharmonique de Radio France
 ```
 1963	Leontyne Price,Franco Corelli,Mirella Freni, Robert Merrill	
 Herbert von Karajan, Vienna Philharmonic orchestra, Vienna State Opera chorus
-RCA Living Stereo Soria BOX LDS 6164 TAS LP
+LP: RCA Living Stereo Soria BOX LDS 6164 TAS LP
 ```
 
 ```
@@ -30,12 +30,22 @@ LP:DGG 2709 043
 1975	Tatiana Troyanos,Plácido Domingo,Kiri Te Kanawa,José van Dam	
 Sir Georg Solti, John Alldis Choir, choristers from Haberdashers' Aske's Boys' School,
 London Philharmonic Orchestra
-LP: DECCA D11D 3
+LP: DECCA D11D 3  Decca 6.35312(3 LP)
 ```
 
 ```
 1977	Teresa Berganza,Plácido Domingo,Ileana Cotrubaş, Sherrill Milnes	
 Claudio Abbado, London Symphony Orchestra, The Ambrosian Singers
+LP: DG 2740 192
+```
+
+```
+1984	
+Julia Migenes-Johnson, Plácido Domingo, Faith Esham, Ruggero Raimondi	
+Lorin Maazel, Orchestre National de France, Chorus and Children's Chorus of Radio France
+Film directed by Francesco Rosi
+
+LP:  ERATO NUM-751133
 ```
 
 # Video recordings{推薦版本}
