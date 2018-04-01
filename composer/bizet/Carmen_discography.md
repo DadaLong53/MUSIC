@@ -67,7 +67,9 @@ LP:  ERATO NUM-751133
 
 # Video recordings{推薦版本}
 
+Carlos Kleiber: Carmen (Bizet) Vienna Opera, 1978 (complete)
 
+https://www.youtube.com/watch?v=SaypJ4kmYCE
 
 # Audio recordings(A history)
 
