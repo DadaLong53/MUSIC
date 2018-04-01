@@ -135,6 +135,14 @@ https://www.youtube.com/watch?v=yGrU__C4OGU
 Bizet: L’Arlesienne Suie No. 1 & 2 ; Carmen Suite No. 1 / Abbado & London Symphony Orchestra
 發行公司：Deutsche Grammophon
 系列：音樂大獎 - 世界最佳錄音名作系列 GRAND PRIX
+
+這幾首組曲的音樂演出，聽眾聆聽時莫不感受到其中鉅大的戲劇張力與動人的旋律展現。
+阿萊城姑娘組曲中包含著多首令人耳熟能詳的音樂旋律，卡門組曲就更不用說了。
+阿巴多指揮倫敦交響的版本，一直是樂迷朋友所津津樂道的完美演出，
+完美的樂句、精確的節奏掌握，樂團詮演出高度的戲劇感，
+阿巴多的指揮亦是了得，讓此版本在樂迷口中的評價甚高，
+音樂聲響動人、旋律痛快淋漓，斷句清晰而張力十足，絕對是此版本錄音中的首選，
+不管從哪裡來看，都是一張相當超值而又值得典藏的錄音版本。
 ```
 ### Clovis et Clotilde:18-year-old Bizet won the Prix de Rome的清唱劇作品
 ```
