@@ -112,14 +112,25 @@ http://www2.ouk.edu.tw/wester/composer/Bizet.htm
 
 ```
 # 著名作品
+### 歌劇《卡門》:被譽為第一部verismo (義大利文:寫實主義 "realism")
+
+氣勢威風，熱情活潑的鬥牛士進行曲。 比才－歌劇【卡門】序奏（鬥牛士之歌）
+
+https://en.wikipedia.org/wiki/Carmen_discography
+
+```
+Carlos Kleiber: Carmen (Bizet) Vienna Opera, 1978 (complete)
+https://www.youtube.com/watch?v=SaypJ4kmYCE
+```
+
+### 歌劇《 採珠者 》( Les Pecheurs de perles )  1863 年完成
+
+第一齣歌劇作品 " 採珠者 " ( Les Pecheurs de perles ) 
 
 ### 歌劇 DON PROCOPIO(1859)
 
 https://www.youtube.com/watch?v=yGrU__C4OGU
 
-### 歌劇《卡門》:被譽為第一部verismo (義大利文:寫實主義 "realism")
-
-氣勢威風，熱情活潑的鬥牛士進行曲。 比才－歌劇【卡門】序奏（鬥牛士之歌）
 
 ### 唯一的戲劇配樂《阿萊城的姑娘》
 ```
